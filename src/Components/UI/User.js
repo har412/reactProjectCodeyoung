@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 import { Link } from 'react-router-dom';
-function user(props) {
+function User(props) {
      const [userDataName,setUserName]=useState('');
      const [userDataAge,setUserAge]=useState('');
     
@@ -49,4 +49,4 @@ function user(props) {
     )
 }
 
-export default user
+export default User
