@@ -1,0 +1,12 @@
+import React from 'react'
+import './Home.css'
+function Home() {
+  return (
+    <div>
+      <p className='alignText'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eum nihil esse dolorum a accusamus odit error, possimus laboriosam qui fuga fugiat. Perferendis velit quis dicta deleniti quibusdam, veritatis quae voluptate at excepturi laudantium eum? Omnis distinctio doloribus consequatur iure officiis quisquam illo illum, mollitia, praesentium provident repellendus aut labore eligendi minus, voluptatem non dicta veniam esse repudiandae vitae neque laudantium asperiores modi? Facilis repellat reiciendis voluptate doloremque ipsum officia dicta accusantium? Magnam, beatae hic? Corrupti ab libero minima. Blanditiis voluptatum odio laudantium sint incidunt quaerat. Facilis illo laudantium reiciendis sint magnam earum id. Dolorum qui aliquam vero ducimus praesentium porro necessitatibus molestias. Ullam voluptatibus reiciendis fuga assumenda? Itaque voluptas ex provident soluta laboriosam quos quod ullam laudantium veniam vitae sint officiis accusamus maxime deserunt aspernatur perferendis, quae voluptatibus! Tempore impedit distinctio maxime id! Harum amet quisquam deleniti voluptates, fugit beatae iste reiciendis hic expedita totam necessitatibus, ullam commodi sit ipsum blanditiis facere eligendi iusto quod voluptatibus et veritatis voluptatem earum? Possimus esse magnam saepe aperiam, error autem accusantium deleniti, quaerat quisquam tempore consectetur repellat rerum vitae molestiae. A iure nemo ut. Culpa voluptates reiciendis, mollitia voluptas officia sed itaque distinctio, possimus, reprehenderit impedit delectus aliquid nostrum ratione illo nesciunt totam dolorem! Repellendus facilis laborum perspiciatis! Soluta molestias atque, officia aut qui dolorem iste enim. Eius ipsum soluta obcaecati amet voluptate consequuntur, sit modi adipisci? Pariatur reiciendis veritatis explicabo deserunt molestiae unde, modi, beatae porro cupiditate earum odit sequi et minima, ullam ut blanditiis doloremque ducimus amet aliquid perferendis tenetur iure quia id cumque? Vel atque illum consequuntur necessitatibus. Architecto at quae iusto tenetur blanditiis excepturi accusantium fugit, sequi quis praesentium aliquid provident perspiciatis adipisci quas iure inventore ullam id minus, possimus laborum nesciunt velit accusamus doloremque obcaecati? Commodi iste hic perferendis minus ut qui nam beatae iusto repellat animi!</p>
+    </div>
+  )
+}
+
+export default Home
+
